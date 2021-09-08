@@ -15,7 +15,7 @@
    "ResultsCountMessage":{
       "template":[
          "{resultsCount, plural,",         
-         "  =1 {One search result found on {dateParam}} ",
+         "  =1 {One search result found on {dateParam}} I jsut changed",
          "  other {{formattedResultsCount} search results found on {dateParam}}",
          "}"
       ],
