@@ -3,6 +3,10 @@
       "template":"This is from Main branch Changeddddd 2",
       "notes":" CHANGED CHANGED"
    },
+   "LoginBtnText1":{
+      "template":"Please Login",
+      "notes":" Jsut some notes"
+   },
    "resBlock1":{
       "template":[
          "This is an example of a longer formed string with some more complex localization implications. ",
