@@ -15,7 +15,7 @@
          " - Plural Support: No beer, one boot of beer, several boots of beer, etc. \n"
       ],
       "notes":"Do not translate the new lines"
-   }
+   },
    "SomeOtherKey":{
       "template":"HBOMax.com",
       "accessibilityTemplate":"HBO Max.com changed",
