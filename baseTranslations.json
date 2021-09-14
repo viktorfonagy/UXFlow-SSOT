@@ -1,10 +1,10 @@
 {
    "resHeader2":{
-      "template":"This is from Main branch Changeddddd 2",
+      "template":"This is from Main branch",
       "notes":" CHANGED CHANGED"
    },
    "LoginBtnText1":{
-      "template":"Please Login",
+      "template":"Please Login -is in Mapping project",
       "notes":" Jsut some notes"
    },
    "resBlock1":{
@@ -15,38 +15,10 @@
          " - Plural Support: No beer, one boot of beer, several boots of beer, etc. \n"
       ],
       "notes":"Do not translate the new lines"
-   },
-   "ResultsCountMessage":{
-      "template":[
-         "{resultsCount, plural,",         
-         "  =1 {One search result found on {dateParam}} I jsut changed",
-         "  other {{formattedResultsCount} search results found on {dateParam}}",
-         "}"
-      ],
-      "parameters":{
-         "resultsCount":{
-            "type":"DataType.NUMBER",
-            "notes":"The number of results (unformatted)",
-            "formatted":{
-               "formattedResultsCount":"NumberFormat.INTEGER"
-            }
-         },
-         "dateParam":{
-            "type":"DataType.DATE",
-            "format":"DateFormat.DAY_MONTH_YEAR_MEDIUM",
-            "notes":"The date on which the results were retrieved"
-         }
-      },
-      "notes":"A sample message with parameters"
-   },
+   }
    "SomeOtherKey":{
       "template":"HBOMax.com",
       "accessibilityTemplate":"HBO Max.com changed",
       "notes":"The website HBOMax.com, with a variant that is optimized for screen-reader software"
-   },
-    "SomeOtherKeyShared-InMain_And_TestBranch1":{
-      "template":"HBOMax.com -InMain_And_TestBranch1",
-      "accessibilityTemplate":"HBO Max.com changed -InMain",
-      "notes":"The website HBOMax.com, with a variant that is optimized for screen-reader software -InMain"
    }
 }
