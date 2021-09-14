@@ -1,0 +1,18 @@
+[
+	{
+	"LokalizeProjectId": "5908390360ae48cff37514.56670957",
+	"UsedKeys":
+		[
+			{
+				"KeyId":0,
+				"KeyName":"@@LoginBtnText"
+				"ReferencedKeyId": 111642097
+			},
+			{
+				"KeyId":0,
+				"KeyName":"___AnOtherLoginBtn"
+				"ReferencedKeyId": 111642097
+			}
+		]		
+	}
+]
