@@ -6,12 +6,12 @@
 			{
 				"KeyId":0,
 				"KeyName":"LoginBtnText1",
-				"ReferencedKeyId": 111642097
+				"ReferencedKeyId": 112212955
 			},
 			{
 				"KeyId":0,
 				"KeyName":"AnOtherLoginBtn2",
-				"ReferencedKeyId": 111642097
+				"ReferencedKeyId": 112212955
 			}
 		]		
 	}
