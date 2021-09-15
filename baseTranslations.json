@@ -1,7 +1,11 @@
 {
    "resHeader2":{
-      "template":"This is from Main branch",
+      "template":"This is from Main branch- Changed",
       "notes":" CHANGED CHANGED"
+   },
+   "newKeyThatWasAdded":{
+      "template":"This is from Main branch- Changed",
+      "notes":" New"
    },
    "LoginBtnText1":{
       "template":"Please Login -is in Mapping project",
