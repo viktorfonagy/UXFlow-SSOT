@@ -4,11 +4,11 @@
       "notes":" Just a note"
    },
    "newKeyInMapper2":{
-      "template":"New Key From Mapper 2",
+      "template":"New Key From Mapper 2- changed ggg",
       "notes":" New note"
    },
    "LoginBtnText1":{
-      "template":"Please Login -is in Mapping project",
+      "template":"Please Login -is in Mapping project sdfds",
       "notes":" some notes"
    }   
 }
