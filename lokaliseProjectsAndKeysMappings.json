@@ -4,14 +4,12 @@
 	"UsedKeys":
 		[
 			{
-				"KeyId":0,
-				"KeyName":"LoginBtnText1",
-				"ReferencedKeyId": 112212955
+				"KeyName":"LoginBtnTextInHadron1",
+				"ReferencedKeyName": "LoginBtnText1"
 			},
 			{
-				"KeyId":0,
 				"KeyName":"AnOtherLoginBtn2",
-				"ReferencedKeyId": 112212955
+				"ReferencedKeyName": "LoginBtnText1"
 			}
 		]		
 	}
