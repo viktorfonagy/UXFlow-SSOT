@@ -9,7 +9,7 @@
 			},
 			{
 				"KeyName":"AnOtherLoginBtn2",
-				"ReferencedKeyName": "LoginBtnText1"
+				"ReferencedKeyName": "newKeyInMapper2"
 			}
 		]		
 	}
