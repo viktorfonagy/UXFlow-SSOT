@@ -1,28 +1,14 @@
 {
-   "resHeader2":{
-      "template":"This is from Main branch- Changed 2",
-      "notes":" CHANGED CHANGED"
+   "newKeyInMapper1":{
+      "template":"This is from Main branch",
+      "notes":" Just a note"
    },
-   "newKeyThatWasAdded2":{
-      "template":"New Key",
-      "notes":" New"
+   "newKeyInMapper2":{
+      "template":"New Key From Mapper 2",
+      "notes":" New note"
    },
    "LoginBtnText1":{
       "template":"Please Login -is in Mapping project",
-      "notes":" NotesUpdated"
-   },
-   "resBlock1":{
-      "template":[
-         "This is an example of a longer formed string with some more complex localization implications. ",
-         "HBO Max translation pipeline will require features such as: \n",
-         " - Gender Support: He, She, They, Theirs, etc. \n",
-         " - Plural Support: No beer, one boot of beer, several boots of beer, etc. \n"
-      ],
-      "notes":"Do not translate the new lines"
-   },
-   "SomeOtherKey":{
-      "template":"HBOMax.com",
-      "accessibilityTemplate":"HBO Max.com changed",
-      "notes":"The website HBOMax.com, with a variant that is optimized for screen-reader software"
-   }
+      "notes":" some notes"
+   }   
 }
