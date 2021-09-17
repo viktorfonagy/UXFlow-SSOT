@@ -10,7 +10,11 @@
 			{
 				"KeyName":"AnOtherLoginBtn2",
 				"ReferencedKeyName": "newKeyInMapper2"
-			}
+			}			,
+			{
+				"KeyName":"FavoritKey2",
+				"ReferencedKeyName": "newKeyInMapper1"
+			}			
 		]		
 	}
 ]
