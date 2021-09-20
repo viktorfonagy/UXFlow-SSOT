@@ -1,14 +1,14 @@
 {
-   "newKeyInMapper1":{
-      "template":"This is from Main branch 2",
+   "newKeyInMapper2":{
+      "template":"This is from SSOT",
       "notes":" Just a note"
    },
-   "newKeyInMapper2":{
-      "template":"New Key From Mapper 2222222222222222222",
+   "newKeyInMapper3":{
+      "template":"New Key From Mapper(39",
       "notes":" New note"
    },
    "LoginBtnText1":{
-      "template":"Please Login -is in Mapping project - CHANGED",
+      "template":"Please Login",
       "notes":" some notes"
    }   
 }
