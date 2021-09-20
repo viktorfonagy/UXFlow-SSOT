@@ -8,12 +8,12 @@
 				"ReferencedKeyName": "LoginBtnText1"
 			},
 			{
-				"KeyName":"AnOtherLoginBtn2",
-				"ReferencedKeyName": "newKeyInMapper2"
+				"KeyName":"AnotherBtnText1",
+				"ReferencedKeyName": "newKeyInMapper3"
 			}			,
 			{
 				"KeyName":"FavoritKey2",
-				"ReferencedKeyName": "newKeyInMapper1"
+				"ReferencedKeyName": "newKeyInMapper2"
 			}			
 		]		
 	}
