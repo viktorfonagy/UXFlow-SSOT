@@ -1,9 +1,9 @@
 {
-   "newKeyInMapper1":{
+   "newKeyInMapper_New1":{
       "template":"This is from SSOT",
       "notes":" Just a note"
    },
-   "BNAME":{
+   "LoginBtn_New1":{
       "template":"Please Login",
       "notes":" some notes"
    }   
