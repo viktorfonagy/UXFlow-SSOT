@@ -4,12 +4,12 @@
 	"UsedKeys":
 		[
 			{
-				"KeyName":"LoginBtnTextInHadron1",
-				"ReferencedKeyName": "LoginBtnText1"
+				"KeyName":"TextInReferingProject",
+				"ReferencedKeyName": "newKeyInMapper_New1"
 			},
 			{
-				"KeyName":"FavoritKey2",
-				"ReferencedKeyName": "newKeyInMapper1"
+				"KeyName":"LoginBtn_InReferingProject1",
+				"ReferencedKeyName": "LoginBtn_New1"
 			}			
 		]		
 	}
