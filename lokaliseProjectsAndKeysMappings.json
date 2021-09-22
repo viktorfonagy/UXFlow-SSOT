@@ -2,11 +2,7 @@
 	{
 	"LokalizeProjectId": "8406376160b7581665d895.32067556",
 	"UsedKeys":
-		[
-			{
-				"KeyName":"exo_download_completed",
-				"ReferencedKeyName": "DownloadCompleted"
-			}			
+		[		
 		]		
 	}
 ]
