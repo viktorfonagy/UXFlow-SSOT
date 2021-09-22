@@ -5,11 +5,11 @@
 		[
 			{
 				"KeyName":"TextInReferingProject",
-				"ReferencedKeyName": "newKeyInMapper_New1"
+				"ReferencedKeyName": "newKeyInMapper_New2"
 			},
 			{
 				"KeyName":"LoginBtn_InReferingProject1",
-				"ReferencedKeyName": "LoginBtn_New1"
+				"ReferencedKeyName": "LoginBtn_New2"
 			}			
 		]		
 	}
