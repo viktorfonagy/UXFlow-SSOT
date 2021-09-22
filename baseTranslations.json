@@ -1,10 +1,6 @@
 {
-   "newKeyInMapper_New3":{
+   "newKeyInMapper_New1":{
       "template":"This is from SSOT",
       "notes":" Just a note"
-   },
-   "LoginBtn_New3":{
-      "template":"Please Login",
-      "notes":" some notes"
    }   
 }
