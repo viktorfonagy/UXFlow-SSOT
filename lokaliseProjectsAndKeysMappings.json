@@ -6,6 +6,10 @@
 			{
 				"KeyName":"Key_1_InReferingProject",
 				"ReferencedKeyName": "Key_1_InMapper"
+			},
+			{
+				"KeyName":"Key_2_NewlyAdded",
+				"ReferencedKeyName": "Key_2_InMapper"
 			}			
 		]		
 	}
