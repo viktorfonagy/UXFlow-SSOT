@@ -4,8 +4,8 @@
 	"UsedKeys":
 		[
 			{
-				"KeyName":"TextInReferingProject_1",
-				"ReferencedKeyName": "newKeyInMapper_New1"
+				"KeyName":"Key_1_InReferingProject",
+				"ReferencedKeyName": "Key_1_InMapper"
 			}			
 		]		
 	}
