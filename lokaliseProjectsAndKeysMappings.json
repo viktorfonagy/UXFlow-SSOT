@@ -4,12 +4,8 @@
 	"UsedKeys":
 		[
 			{
-				"KeyName":"TextInReferingProject_3",
-				"ReferencedKeyName": "newKeyInMapper_New3"
-			},
-			{
-				"KeyName":"LoginBtn_InReferingProject_3",
-				"ReferencedKeyName": "LoginBtn_New3"
+				"KeyName":"TextInReferingProject_1",
+				"ReferencedKeyName": "newKeyInMapper_New1"
 			}			
 		]		
 	}
