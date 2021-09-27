@@ -4,8 +4,8 @@
 	"UsedKeys":
 		[
 			{
-				"KeyName":"exo_download_completed",
-				"ReferencedKeyName": "DownloadCompleted"
+				"KeyName":"login_btn",
+				"ReferencedKeyName": "LoginBtn"
 			}
 
 		]		
