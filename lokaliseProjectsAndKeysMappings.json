@@ -3,10 +3,6 @@
 	"LokalizeProjectId": "8406376160b7581665d895.32067556",
 	"UsedKeys":
 		[
-			{
-				"KeyName":"login_btn",
-				"ReferencedKeyName": "LoginBtn"
-			}
 
 		]		
 	}
