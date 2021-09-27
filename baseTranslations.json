@@ -1,4 +1,4 @@
-{
+[
   	"DownloadCompleted":{
       "template":"Download Completed",
       "notes":"Appeares in a message"
@@ -8,4 +8,4 @@
   "template": "Vel ea velit ipsum ea fugit.",
   "notes": "nothing"}
   }
-}
+]
